@@ -26,3 +26,30 @@ h1{
 h2{
     font-family: cursive;
 }
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+h4{
+    font-family: cursive;
+}
+
+hr{
+    border: none;
+    height: 1px;
+    color: black;
+    background-color: black;
+}
