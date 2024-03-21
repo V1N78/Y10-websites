@@ -54,3 +54,57 @@ hr{
     background-color: black;
 }
 
+.math-image{
+margin-left: auto;
+margin-right: auto;
+width: 400px;
+height: auto;
+border-width: 7px;
+border-style: groove;
+border-color: black;
+display: block;
+}
+
+.usage{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    border-width: 7px;
+    border-style: groove;
+    border-color: black;
+    display: block;
+}
+
+.essential{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    border-width: 7px;
+    border-style: groove;
+    border-color: grey;
+    display: block;
+}
+
+.di-pake{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    border-width: 7px;
+    border-style: groove;
+    border-color: black;
+    display: block;
+}
+
+.sejarah{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    border-width: 7px;
+    border-style: groove;
+    border-color: black;
+    display: block;
+}
