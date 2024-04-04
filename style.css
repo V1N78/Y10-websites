@@ -175,3 +175,9 @@ button{
 .para{
     font-size: larger;
 }
+
+.nav-b{
+    font-size: large;
+    text-align: center;
+    color: blue;
+}
