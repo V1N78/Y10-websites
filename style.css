@@ -201,12 +201,11 @@ button{
     margin-right: auto;
     width: 750px;
     height: 500px;
-    border-width: 7px;
+    border-width: 5px;
     border-style: groove;
     border-color: black;
     display: block;
     image-rendering: optimizeQuality;
-    mask-image: -moz-repeating-linear-gradient();
 }
 
 #nav-c{
