@@ -109,7 +109,7 @@ display: block;
     display: block;
 }
 
-input {
+input{
     display: block;
     padding: 5px;
     margin: 12px auto;
@@ -132,7 +132,7 @@ margin: 0 auto;
 width: 90%;
 }
 
-.results {
+.results{
     min-height: 20px;
     padding: 19px;
     margin: 20px 0 ;
@@ -145,7 +145,7 @@ width: 90%;
     font-family: cursive;
 }
 
-.title {
+.title{
     margin: 0;
     display: inline-block;
   }
@@ -182,7 +182,7 @@ button{
     font-family: cursive;
 }
 
-#links{
+.links{
     min-height: 20px;
     padding: 11px;
     margin: 20px 0 ;
@@ -196,7 +196,7 @@ button{
     border-color: black;
 }
 
-#welcome{
+.welcome{
     margin-left: auto;
     margin-right: auto;
     width: 750px;
@@ -208,7 +208,7 @@ button{
     image-rendering: optimizeQuality;
 }
 
-#nav-c{
+.nav-c{
     color: blue;
     margin: 0 20px;
     text-align: center;
