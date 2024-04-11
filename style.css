@@ -206,6 +206,7 @@ button{
     border-color: black;
     display: block;
     image-rendering: optimizeQuality;
+    mask-image: -moz-repeating-linear-gradient();
 }
 
 #nav-c{
