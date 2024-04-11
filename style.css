@@ -205,7 +205,7 @@ button{
     border-style: groove;
     border-color: black;
     display: block;
-    image-rendering: optimizeQuality
+    image-rendering: optimizeQuality;
 }
 
 #nav-c{
